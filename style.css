@@ -38,18 +38,18 @@ nav{
     
 }
 
-.carousel-caption {
+.picword {
     position: absolute;
     top:30%;
     padding: 30px 0px;
 }
-.carousel-caption h1{
+.picword h1{
 padding-bottom: 40px;
 padding-left: 50%;
 color: black;
     
 }
-.carousel-caption p{
+.picword p{
     padding-bottom: 40px;
     padding-left: 50%;
     color: black;
@@ -59,31 +59,7 @@ color: black;
         height: 70px;
         padding-top: 20px;
     }
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
 footer{
     font-size: smaller;
     text-decoration: none;
